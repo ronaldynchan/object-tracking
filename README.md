@@ -7,7 +7,7 @@ The code is executed on a Terasic DE10 Nano SoC FPGA board, with servo controlle
 ![alt text](https://github.com/ronaldynchan/object-tracking/blob/master/Testbench_Setup.jpg)
 
 
-Video demonstrations: https://youtu.be/1kUA8nwv7yY
+Video demonstrations: https://www.youtube.com/playlist?list=PLi3ygjtX3ffVDaPvp-yFlO6BnAQB8fNhL
 
 
 
