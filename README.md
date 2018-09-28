@@ -7,6 +7,8 @@ Video demonstrations: https://www.youtube.com/playlist?list=PLi3ygjtX3ffVDaPvp-y
 
 
 ![alt text](
+
+
 https://github.com/ronaldynchan/object-tracking/blob/master/Testbench_Setup.jpg)
 
 
